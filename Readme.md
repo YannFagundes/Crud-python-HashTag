@@ -12,8 +12,7 @@ Com essa database foi realizado um controle de fluxo de caixa para executar um s
 
 *DELETE* Aplicado a busca no banco de dados uma transação que tenha o nome CORTE CABELO que deletará todos com esse nome
 
-
-# Durante a criação de uma tabelo caso for fazer uma modificação ou leitura de um dado.
+coloquei dentro de funções após a finalização para realizar os teste 1 por 1. caso queira aplicar terá que fazer a aplicação dos dados
 
 *LEMBRE-SE* 
 
