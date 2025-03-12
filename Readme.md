@@ -20,5 +20,5 @@ USAR O COMMIT PARA COMANDOS QUE ESTÃO EDITANDO
 
 USAR FETCHALL PARA LEITURA DE UM DADO 
 
-
+..
 Dentro do arquivo database tem comentarios importantes para melhor compreensão.
